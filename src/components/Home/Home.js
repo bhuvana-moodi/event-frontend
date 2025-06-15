@@ -18,12 +18,12 @@ export default function Home(props){
         return(
             <div class="content">
                 <div>
-                <h1>Eventify</h1>
+                <h1>MEMORA</h1>
                     <p className="tagline">
-                        <em> ‘ Simplify ’ your Events </em>
+                        <em> "Where Every Moment Becomes a Memory" </em>
                     </p>
                     <p className="about">
-                    Explore the magic of our application 'EVENTIFY'.
+                    Explore the magic of our application 'MEMORA'.
                     A go-to solution for managing amazing events effortlessly. From easy sign-ups to registering and managing event schedules, our user-friendly platform has everything you need for a flawless experience. 
                     With powerful features, trust our system to handle the details, and let's bring your event vision to life!!!
                     </p>
@@ -39,12 +39,12 @@ export default function Home(props){
         return(
             <div class = "content">
                 <div>
-                <h1>Eventify</h1>
+                <h1>MEMORA</h1>
                     <p className="tagline">
-                        <em> ‘ Simplify ’ your Events </em>
+                        <em> "Where Every Moment Becomes a Memory" </em>
                     </p>
                     <p className="about">
-                    Explore the magic of our application 'EVENTIFY'.
+                    Explore the magic of our application 'MEMORA'.
                     A go-to solution for managing amazing events effortlessly. From easy sign-ups to registering and managing event schedules, our user-friendly platform has everything you need for a flawless experience. 
                     With powerful features, trust our system to handle the details, and let's bring your event vision to life!!!
                     </p>
